@@ -21,7 +21,7 @@ The exercises throughout these notebooks were designed with the assistance of Cl
 | 02 | **Training & Data Pipelines** | `nn.Module`, `nn.Sequential`, optimizers, loss functions, custom layers, model saving & loading |
 | 03 | **CNNs & Transfer Learning** | Convolutional blocks, pooling, training on MNIST, fine-tuning ResNet-18 on FashionMNIST |
 
-Each topic is organised into levelled exercises (🐧 → 🐉) to guide you from foundational concepts to more advanced applications.
+Each topic is organised into levelled exercises (🐤 → 🐉) to guide you from foundational concepts to more advanced applications.
 
 ---
 
