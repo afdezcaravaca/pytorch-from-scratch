@@ -95,3 +95,17 @@ jupyter notebook Notebooks/00_Fundamentals.ipynb
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+The MIT License is a permissive license that is short and to the point. It allows for broad use, modification, and distribution of the software.
+
+| Permissions | Conditions | Limitations |
+|---|---|---|
+| ✅ Commercial use | ℹ️ License and copyright notice | ❌ Liability |
+| ✅ Modification |  | ❌ Warranty |
+| ✅ Distribution |  |  |
+| ✅ Private use |  |  |
+
+Key Terms
+ * Rights: You can do almost anything with the code, including using it in proprietary software.
+ * Requirement: You must include the original copyright notice and the license text in any copy of the software.
+ * No Warranty: The software is provided "as is", and the authors cannot be held liable for any issues arising from its use.
