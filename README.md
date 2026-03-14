@@ -56,9 +56,6 @@ pip install -r requirements.txt
 
 > ⚠️ Be aware of potential version compatibility issues, especially between PyTorch and your CUDA version if you are using a GPU.
 
----
-
-¿Quieres que actualice el `README.md` completo con este bloque (reemplazando la sección de Requirements que ya tenía) y te lo genere de nuevo?
 
 Install everything at once:
 
