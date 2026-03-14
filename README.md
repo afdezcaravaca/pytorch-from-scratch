@@ -1,8 +1,15 @@
 # 🔥 PyTorch From Scratch
+---
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.10.0-EE4C2C?logo=pytorch&logoColor=white)
+
 
 A hands-on collection of Jupyter notebooks for learning PyTorch from the ground up — from tensor basics to convolutional networks and transfer learning. Each notebook combines concise theory with progressive exercises designed to build real intuition.
 
 The exercises throughout these notebooks were designed with the assistance of Claude (Anthropic's AI). All solutions and elaborations are my own work, guided by Claude. If you spot any mistakes — in the exercises or the solutions — feel free to open an issue or reach out.
+
 ---
 
 ## 📚 Contents
@@ -31,12 +38,27 @@ pytorch-from-scratch/
 
 ## ⚙️ Requirements
 
-- Python ≥ 3.9
-- PyTorch ≥ 2.0
-- torchvision
-- NumPy
-- Matplotlib
-- scikit-learn
+These notebooks were developed with **Python 3.12**. The main libraries and versions used are:
+
+- **PyTorch:** 2.10.0
+- **torchvision:** 0.25.0
+- **torchviz:** 0.0.3
+- **NumPy:** 2.3.5
+- **Matplotlib:** 3.10.8
+- **scikit-learn:** latest
+- **graphviz:** 0.21
+
+You can install all dependencies quickly with:
+
+```bash
+pip install -r requirements.txt
+```
+
+> ⚠️ Be aware of potential version compatibility issues, especially between PyTorch and your CUDA version if you are using a GPU.
+
+---
+
+¿Quieres que actualice el `README.md` completo con este bloque (reemplazando la sección de Requirements que ya tenía) y te lo genere de nuevo?
 
 Install everything at once:
 
