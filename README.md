@@ -29,6 +29,7 @@ Each topic is organised into levelled exercises (🐤 → 🐉) to guide you fro
 
 ```
 pytorch-from-scratch/
+├── Images/             # Images in the notebook.
 ├── Notebooks/          # Notebooks with exercises (no solutions)
 ├── Solutions/          # Fully worked solutions
 └── LICENSE
